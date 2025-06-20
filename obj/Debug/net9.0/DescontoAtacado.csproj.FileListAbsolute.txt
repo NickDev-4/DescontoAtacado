@@ -1,0 +1,15 @@
+C:\Users\nicky\Desktop\FATEC\1° Semestre\ALP 1\Lista006\DescontoAtacado\bin\Debug\net9.0\DescontoAtacado.exe
+C:\Users\nicky\Desktop\FATEC\1° Semestre\ALP 1\Lista006\DescontoAtacado\bin\Debug\net9.0\DescontoAtacado.deps.json
+C:\Users\nicky\Desktop\FATEC\1° Semestre\ALP 1\Lista006\DescontoAtacado\bin\Debug\net9.0\DescontoAtacado.runtimeconfig.json
+C:\Users\nicky\Desktop\FATEC\1° Semestre\ALP 1\Lista006\DescontoAtacado\bin\Debug\net9.0\DescontoAtacado.dll
+C:\Users\nicky\Desktop\FATEC\1° Semestre\ALP 1\Lista006\DescontoAtacado\bin\Debug\net9.0\DescontoAtacado.pdb
+C:\Users\nicky\Desktop\FATEC\1° Semestre\ALP 1\Lista006\DescontoAtacado\obj\Debug\net9.0\DescontoAtacado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicky\Desktop\FATEC\1° Semestre\ALP 1\Lista006\DescontoAtacado\obj\Debug\net9.0\DescontoAtacado.AssemblyInfoInputs.cache
+C:\Users\nicky\Desktop\FATEC\1° Semestre\ALP 1\Lista006\DescontoAtacado\obj\Debug\net9.0\DescontoAtacado.AssemblyInfo.cs
+C:\Users\nicky\Desktop\FATEC\1° Semestre\ALP 1\Lista006\DescontoAtacado\obj\Debug\net9.0\DescontoAtacado.csproj.CoreCompileInputs.cache
+C:\Users\nicky\Desktop\FATEC\1° Semestre\ALP 1\Lista006\DescontoAtacado\obj\Debug\net9.0\DescontoAtacado.sourcelink.json
+C:\Users\nicky\Desktop\FATEC\1° Semestre\ALP 1\Lista006\DescontoAtacado\obj\Debug\net9.0\DescontoAtacado.dll
+C:\Users\nicky\Desktop\FATEC\1° Semestre\ALP 1\Lista006\DescontoAtacado\obj\Debug\net9.0\refint\DescontoAtacado.dll
+C:\Users\nicky\Desktop\FATEC\1° Semestre\ALP 1\Lista006\DescontoAtacado\obj\Debug\net9.0\DescontoAtacado.pdb
+C:\Users\nicky\Desktop\FATEC\1° Semestre\ALP 1\Lista006\DescontoAtacado\obj\Debug\net9.0\DescontoAtacado.genruntimeconfig.cache
+C:\Users\nicky\Desktop\FATEC\1° Semestre\ALP 1\Lista006\DescontoAtacado\obj\Debug\net9.0\ref\DescontoAtacado.dll
